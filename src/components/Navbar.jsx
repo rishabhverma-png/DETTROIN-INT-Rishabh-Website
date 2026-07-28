@@ -48,13 +48,6 @@ function Navbar() {
               Academics
             </Link>
           </li>
-
-          <li>
-            <Link to="/gallery" className="hover:text-yellow-400 duration-300">
-              Gallery
-            </Link>
-          </li>
-
           <li>
             <Link to="/contact" className="hover:text-yellow-400 duration-300">
               Contact
